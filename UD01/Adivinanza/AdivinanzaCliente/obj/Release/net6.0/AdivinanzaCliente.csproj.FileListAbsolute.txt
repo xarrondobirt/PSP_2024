@@ -1,0 +1,14 @@
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\bin\Release\net6.0\AdivinanzaCliente.exe
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\bin\Release\net6.0\AdivinanzaCliente.deps.json
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\bin\Release\net6.0\AdivinanzaCliente.runtimeconfig.json
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\bin\Release\net6.0\AdivinanzaCliente.dll
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\bin\Release\net6.0\AdivinanzaCliente.pdb
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.AssemblyInfoInputs.cache
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.AssemblyInfo.cs
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.csproj.CoreCompileInputs.cache
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.dll
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\refint\AdivinanzaCliente.dll
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.pdb
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\AdivinanzaCliente.genruntimeconfig.cache
+D:\DAM\PSP\2024\UD01\Adivinanza\AdivinanzaCliente\obj\Release\net6.0\ref\AdivinanzaCliente.dll

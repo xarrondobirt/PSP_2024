@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinanzaCliente", "AdivinanzaCliente\AdivinanzaCliente.csproj", "{EF24275F-DCE2-4A13-BC63-D9593FE66FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinanzaServer", "AdivinanzaServer\AdivinanzaServer.csproj", "{73CB4ABE-FDBB-4019-9D91-E8FB7D83C334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF24275F-DCE2-4A13-BC63-D9593FE66FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF24275F-DCE2-4A13-BC63-D9593FE66FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF24275F-DCE2-4A13-BC63-D9593FE66FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF24275F-DCE2-4A13-BC63-D9593FE66FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CB4ABE-FDBB-4019-9D91-E8FB7D83C334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CB4ABE-FDBB-4019-9D91-E8FB7D83C334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CB4ABE-FDBB-4019-9D91-E8FB7D83C334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CB4ABE-FDBB-4019-9D91-E8FB7D83C334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {955E731E-C411-4392-ABCD-0150F925AD40}
+	EndGlobalSection
+EndGlobal

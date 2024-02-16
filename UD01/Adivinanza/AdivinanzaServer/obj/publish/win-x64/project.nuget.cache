@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "95GlVSUICYbCtiiKFTKbjjFNdVorEZRNHWz15mHNSJNhz1fycLiP9w0TAH8kSUCERx/foMGS5M7LLhxLchOS2A==",
+  "success": true,
+  "projectFilePath": "D:\\DAM\\PSP\\2024\\UD01\\Adivinanza\\AdivinanzaServer\\AdivinanzaServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xabib\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.23\\microsoft.netcore.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\xabib\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.23.nupkg.sha512",
+    "C:\\Users\\xabib\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.23\\microsoft.aspnetcore.app.runtime.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
